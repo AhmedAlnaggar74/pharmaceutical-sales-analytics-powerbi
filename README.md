@@ -35,7 +35,7 @@ PY Quantity Sold = CALCULATE([Total Quantity Sold], SAMEPERIODLASTYEAR(Dim_Date[
 ​Category Performance: Clustered bar charts breaking down sales by therapeutic categories (e.g., Analgesics, Anti-inflammatories, Respiratory).
 ​Time Series Trend: Continuous temporal analysis tracking seasonal fluctuations over multi-year data.
 
-![Dashboard Overview](Docs/ExecutiveDashboard.png)
+![Dashboard Overview](Docs / ExecutiveDashboard.png)
 
 
 
