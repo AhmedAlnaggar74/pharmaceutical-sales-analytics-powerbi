@@ -34,6 +34,14 @@ PY Quantity Sold = CALCULATE([Total Quantity Sold], SAMEPERIODLASTYEAR(Dim_Date[
 ​Executive Summary: High-level KPI cards tracking volume, growth, and trends.
 ​Category Performance: Clustered bar charts breaking down sales by therapeutic categories (e.g., Analgesics, Anti-inflammatories, Respiratory).
 ​Time Series Trend: Continuous temporal analysis tracking seasonal fluctuations over multi-year data.
+
+![Dashboard Overview](Docs/ExecutiveDashboard.png)
+
+
+
+
+---
+
 ​⚙️ Tools & Technologies
 ​Power BI Desktop: Data modeling, Power Query transformations, DAX modeling, and visualization design.
 ​GitHub & Git: Version control and professional portfolio documentation.
